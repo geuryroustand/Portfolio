@@ -1,0 +1,151 @@
+{
+  "main": {
+    "name": "Geury Roustand",
+    "occupation": "Junior Fullstack Web Developer",
+    "description": "passionate about programming and learning new technologies",
+    "image": "profilepic.jfif",
+    "bio": "Hi there! I am Geury!  I am from the Dominican Republic , I studied tourism business administration,but I always had that passion for programming and some time ago I learned HTML5 and CSS3, some Javascript and PHP.Being in Germany I realized how technologies changing the world and the work methodologies, I got the opportunity to participate in a full stack coding bootcamp at Strive School and I didn't miss it, I quit my job.  Now I am working on my capstone project. ",
+    "contactmessage": "Get in touch with me",
+    "email": "roustandgeury@gmail.com",
+    "phone": "+49  162 9885133",
+    "address": {
+      "street": "Bahnhofstraße 24",
+      "city": " Stuttgart ",
+      "state": "Göppingen, Germany",
+      "zip": "73033"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/geury.roustand/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/geury-roustand-86a40471/",
+        "className": "fa fa-linkedin"
+      },
+
+      {
+        "name": "github",
+        "url": "https://github.com/geuryroustand",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Universidad Abierta Para Adultos UAPA - Dominican Republic",
+        "degree": "Bachelor's Degree, tourism business administration",
+        "graduated": "March 2017",
+        "description": " Planning, organization, direction and control of the company's resources (human and technological) to achieve the company's objectives."
+      },
+
+      {
+        "school": " Strive School - Germany",
+        "degree": "Fullstack coding bootcamp",
+        "graduated": "Present",
+        "description": "MEAN  ( MongoDB,  Express.js , React.js , Node.js)  Bootstrap,  CSS3 ,HTML5,  JavaScript, Typescript   PostgreSQL ., GIT, Github , UX/UI  , Cloud & Security. "
+      }
+    ],
+    "work": [
+      {
+        "company": "Grand Paradise Samana , Dominican Republic ",
+        "title": "Receptionist",
+        "years": "March 21, 2012 to April 31, 2014",
+        "description": "Welcoming guests to the hotel in a polite, friendly and helpful manner. Accepting payments from guests in the form of cash or credit cards. Processing and resolving customer complaints."
+      },
+
+      {
+        "company": "Luxuy Bahia Principe Cayo Levantado- Dominican Republic",
+        "title": "Customer Service Assistant Manager ",
+        "years": "2018 January - 2018 June",
+        "description": "Handle and resolve customer complaints. Participate in daily management and meet with all departments. Ensure that all customers enjoy their stay at the hotel"
+      },
+
+      {
+        "company": "NH Hotel Stuttgart Airport ",
+        "title": "Receptionist",
+        "years": "December 05, 2018 - November 15, 2020",
+        "description": "Welcoming guests to the hotel in a polite, friendly and helpful manner. Accepting payments from guests in the form of cash or credit cards. Processing and resolving customer complaints."
+      }
+    ],
+    "skills": [
+      {
+        "name": "CSS3",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "85%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "75%"
+      },
+      {
+        "name": "Typescript  ",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      },
+
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "PostgreSQL ",
+        "level": "60%"
+      },
+
+      {
+        "name": "Web Development",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Bankist JavaScript",
+        "category": "",
+        "image": "Bankist.png",
+        "url": "https://github.com/geuryroustand/bankist"
+      },
+      {
+        "title": "HTML5, CSS3",
+        "category": "",
+        "image": "edgeledger.jpg",
+        "url": "https://github.com/geuryroustand/edgeledger"
+      },
+      {
+        "title": "Capstone Frontend React",
+        "category": "",
+        "image": "vacationTaxi.jpg",
+        "url": "https://github.com/geuryroustand/capstone-frontend"
+      },
+
+      {
+        "title": "Capstone Backend NODE.JS",
+        "category": "",
+        "image": "vacationTaxi.jpg",
+        "url": "https://github.com/geuryroustand/capstone-project-backend"
+      }
+    ]
+  }
+}
