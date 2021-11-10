@@ -1,0 +1,7 @@
+[build]
+  publish = ""
+  functions="func/"
+
+[[redirect]]
+from = "/api/yes"
+to = "/.netlify/functions/yep"
