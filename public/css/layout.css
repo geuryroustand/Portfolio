@@ -324,22 +324,31 @@ ul#nav li.current a {
 /*----------------------------------------------*/
 
 .bars {
-  width: 95%;
-  float: left;
-  padding: 0;
-  text-align: left;
+  /* width: 95%; */
+  /* float: left; */
+  /* padding: 0; */
+  /* text-align: left; */
 }
+
 .bars .skills {
   margin-top: 36px;
-  list-style: none;
+  /* list-style: none; */
+  /* display: flex; */
 }
+
 .bars li {
-  position: relative;
+  /* display: flex; */
+  /* position: relative;
   margin-bottom: 60px;
   background: #ccc;
   height: 42px;
-  border-radius: 3px;
+  border-radius: 3px; */
+  padding-left: 20px;
 }
+
+/*
+
+
 .bars li em {
   font: 15px "opensans-bold", sans-serif;
   color: #313131;
@@ -361,7 +370,8 @@ ul#nav li.current a {
   height: 42px;
   line-height: 42px;
   border-radius: 3px 0 0 3px;
-}
+} */
+
 /*
 .git {
   	-moz-animation: git 2s ease;
