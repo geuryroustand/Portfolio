@@ -346,6 +346,26 @@ ul#nav li.current a {
   padding-left: 20px;
 }
 
+.skills-img {
+  display: flex;
+  width: 100%;
+}
+
+.skills-img-css {
+  width: 100px;
+  height: 100px;
+  margin-left: 15px;
+  border-radius: 10px;
+  cursor: pointer;
+  padding: 10px;
+}
+.skills-img-css:hover {
+  background-color: rgba(150, 150, 150, 0.1);
+}
+.skills-img-second-line {
+  width: 100%;
+  margin-top: 30px;
+}
 /*
 
 
