@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Geury Roustand",
-    "occupation": "Junior Fullstack Web Developer",
+    "occupation": "Fullstack Web Developer",
     "description": "passionate about programming and learning new technologies",
     "image": "profilepic.jfif",
-    "bio": "Hi there! I am Geury!  I am from the Dominican Republic , I studied tourism business administration,but I always had that passion for programming and some time ago I learned HTML5 and CSS3, some Javascript and PHP.Being in Germany I realized how technologies changing the world and the work methodologies, I got the opportunity to participate in a full stack coding bootcamp at Strive School and I didn't miss it, I quit my job.  Now I am working on my capstone project. ",
+    "bio": "Hi there! I am Geury!  I am from the Dominican Republic, I studied tourism business administration, but I always had a passion for programming, and some time ago I learned HTML5 and CSS3, some Javascript, and PHP. Being in Germany I realized how technologies changing the world and the work methodologies, I got the opportunity to participate in a full stack coding Bootcamp at Strive School and I didn't miss it, I quit my job. Now I'm working as a Frontend Developer in Diconium where I work mainly with React. ",
     "contactmessage": "Get in touch with me",
     "email": "roustandgeury@gmail.com",
     "phone": "+49  162 9885133",
@@ -14,8 +14,8 @@
       "state": "Göppingen, Germany",
       "zip": "73033"
     },
-    "website": "https://drive.google.com/file/d/1U5DzYNPujV0ctIKCiFzVta4iPJsHghpb/view?usp=sharing",
-    "resumedownload": "https://drive.google.com/file/d/1U5DzYNPujV0ctIKCiFzVta4iPJsHghpb/view?usp=sharing",
+    "website": "https://drive.google.com/file/d/1v6GiePGa0xLZmgc7lWebzhUhB5f3G0gf/view",
+    "resumedownload": "https://drive.google.com/file/d/1v6GiePGa0xLZmgc7lWebzhUhB5f3G0gf/view",
     "social": [
       {
         "name": "facebook",
@@ -53,6 +53,12 @@
       }
     ],
     "work": [
+      {
+        "company": "Diconium GmbH",
+        "title": "Frontend Developer",
+        "years": "Feb 30, 2022 actual",
+        "description": "Competent in developing web pages with React, ensuring code quality and accessibility through the implementation of unit tests and accessibility testing. Able to deliver user-friendly and inclusive web pages for all users."
+      },
       {
         "company": "Grand Paradise Samana , Dominican Republic ",
         "title": "Receptionist",
