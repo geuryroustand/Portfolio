@@ -14,8 +14,8 @@
       "state": "Göppingen, Germany",
       "zip": "73033"
     },
-    "website": "https://drive.google.com/file/d/1v6GiePGa0xLZmgc7lWebzhUhB5f3G0gf/view",
-    "resumedownload": "https://drive.google.com/file/d/1v6GiePGa0xLZmgc7lWebzhUhB5f3G0gf/view",
+    "website": "https://drive.google.com/file/d/17JgaKz59RgLZ1bgF4nE6wM-km7C0r3Rx/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/17JgaKz59RgLZ1bgF4nE6wM-km7C0r3Rx/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -139,7 +139,13 @@
         "url": "https://github.com/geuryroustand/edgeledger"
       },
       {
-        "title": "Capstone Frontend React",
+        "title": "VacationsTaxis Next.js",
+        "category": "",
+        "image": "vacationTaxi.jpg",
+        "url": "https://vacations-taxi.vercel.app/"
+      },
+      {
+        "title": "Capstone Frontend React.js",
         "category": "",
         "image": "vacationTaxi.jpg",
         "url": "https://github.com/geuryroustand/capstone-frontend"
