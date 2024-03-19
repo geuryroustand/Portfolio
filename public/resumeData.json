@@ -14,8 +14,8 @@
       "state": "Göppingen, Germany",
       "zip": "73033"
     },
-    "website": "https://drive.google.com/file/d/17JgaKz59RgLZ1bgF4nE6wM-km7C0r3Rx/view?usp=sharing",
-    "resumedownload": "https://drive.google.com/file/d/17JgaKz59RgLZ1bgF4nE6wM-km7C0r3Rx/view?usp=sharing",
+    "website": "https://drive.google.com/file/d/1bb478HBO3X1kQ7Mru4tyV6encdyaIyQ3/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1bb478HBO3X1kQ7Mru4tyV6encdyaIyQ3/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -56,14 +56,8 @@
       {
         "company": "Diconium GmbH",
         "title": "Frontend Developer",
-        "years": "Feb 01, 2022 actual",
+        "years": "Feb 01, 2022 to Feb 29, 2024",
         "description": "Competent in developing web pages with React, ensuring code quality and accessibility through the implementation of unit tests and accessibility testing. Able to deliver user-friendly and inclusive web pages for all users."
-      },
-      {
-        "company": "Grand Paradise Samana , Dominican Republic ",
-        "title": "Receptionist",
-        "years": "March 21, 2012 to April 31, 2014",
-        "description": "Welcoming guests to the hotel in a polite, friendly and helpful manner. Accepting payments from guests in the form of cash or credit cards. Processing and resolving customer complaints."
       },
 
       {
@@ -76,7 +70,7 @@
       {
         "company": "NH Hotel Stuttgart Airport ",
         "title": "Receptionist",
-        "years": "December 05, 2018 - November 15, 2020",
+        "years": "Jan 2018 - Dec 2020",
         "description": "Welcoming guests to the hotel in a polite, friendly and helpful manner. Accepting payments from guests in the form of cash or credit cards. Processing and resolving customer complaints."
       }
     ],
@@ -142,7 +136,7 @@
         "title": "VacationsTaxis Next.js",
         "category": "",
         "image": "vacationTaxi.jpg",
-        "url": "https://vacations-taxi.vercel.app/"
+        "url": "https://vacations-taxi-git-main-geuryroustand.vercel.app/"
       },
       {
         "title": "Capstone Frontend React.js",
