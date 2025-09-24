@@ -31,6 +31,27 @@ const projectsData: ProjectProps[] = [
     category: "Full Stack",
     backendUrl: "https://github.com/geuryroustand/capstone-project-backend",
   },
+
+  {
+    id: "nailfeed",
+    title: "Nailfeed",
+    description:
+      "NailFeed is a comprehensive social platform designed specifically for the nail art community. Users can share their creative nail designs, discover trending styles, connect with fellow nail artists, and build collections of their favorite looks. The platform combines modern web technologies with an intuitive user experience to create the ultimate destination for nail art inspiration.",
+    image: "/nailfeed.png?height=400&width=600&text=Nailfeed",
+    technologies: [
+      "Next.js",
+      "React.js",
+      "Tailwind",
+      "TypeScript.js",
+      "Shadcn/ui f",
+      "PostgreSQL",
+      "Strapi CMS",
+      "Cloudinary",
+    ],
+    demoUrl: "https://nailfeed-git-main-geuryroustands-projects.vercel.app/",
+    githubUrl: "https://github.com/geuryroustand/nailfeed-frontend",
+    category: "Frontend",
+  },
   {
     id: "bankist",
     title: "Bankist",

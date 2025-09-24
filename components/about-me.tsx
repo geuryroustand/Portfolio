@@ -118,7 +118,7 @@ export default function AboutMe() {
                   className="bg-sky-400 hover:bg-sky-500 text-white"
                 >
                   <a
-                    href="https://drive.google.com/file/d/1_cWIs54PsvxfP6ecPai3LS_6dl4onree/view?usp=drive_link"
+                    href="https://drive.google.com/file/d/18iQBR0fr09UHTIUq4HlMGV-XfxWGhUcH/view?usp=sharing"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
