@@ -25,7 +25,8 @@ const projectsData: ProjectProps[] = [
       "Strapi CMS",
       "JWT",
     ],
-    demoUrl: "https://vacations-taxi-git-main-geuryroustand.vercel.app/",
+    demoUrl:
+      "https://vacationstaxis-git-main-geuryroustands-projects.vercel.app/",
     githubUrl: "https://github.com/geuryroustand/vacations-taxi",
     featured: true,
     category: "Full Stack",
